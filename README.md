@@ -1,1 +1,1 @@
-# Chemical-Named-Entity-Recognition
+# Chemical Named Entity Recognition
